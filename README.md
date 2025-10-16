@@ -22,9 +22,6 @@ licensed under the **MIT License**.
 | **2. Fruits Composition**<br>`"A vibrant composition of bananas, oranges, and peaches on a lush green background, studio lighting, ultra-sharp, 8k resolution, photorealistic style."` | ![Fruits](results/fruits.jpeg) |
 | **3. Mountain Landscape**<br>`"Snow-covered mountains at sunrise, warm light hitting the peaks, highly detailed, dramatic composition, ultra sharp, 8k cinematic landscape."` | ![Mountains](results/mountains.jpeg) |
 | **4. Cat Portrait**<br>`"A cat with sunglasses, wearing comfy hat, looking at camera, highly detailed, ultra sharp, cinematic, 100mm lens, 8k resolution."` | ![Cat](results/cat.jpeg) |
-
-All generated results are available in the `/results/` folder.
-
 ---
 
 ## 🙏 Acknowledgment
