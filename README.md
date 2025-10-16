@@ -18,11 +18,11 @@ licensed under the **MIT License**.
 
 | Prompt Description | Generated Image |
 |:--------------------|:----------------|
-| **1. Batman Character**<br>`"A realistic Batman standing tall under a cloudy sky, cinematic lighting, ultra-detailed, 8k resolution, hyperrealistic style."` | ![Batman](results/batman.jpeg) |
-| **2. Fruits Composition**<br>`"A vibrant composition of bananas, oranges, and peaches on a lush green background, studio lighting, ultra-sharp, 8k resolution, photorealistic style."` | ![Fruits](results/fruits.jpeg) |
-| **3. Mountain Landscape**<br>`"Snow-covered mountains at sunrise, warm light hitting the peaks, highly detailed, dramatic composition, ultra sharp, 8k cinematic landscape."` | ![Mountains](results/mountains.jpeg) |
-| **4. Cat Portrait**<br>`"A cat with sunglasses, wearing comfy hat, looking at camera, highly detailed, ultra sharp, cinematic, 100mm lens, 8k resolution."` | ![Cat](results/cat.jpeg) |
----
+| **1. Batman Character**<br>`"A realistic Batman standing tall under a cloudy sky, cinematic lighting, ultra-detailed, 8k resolution, hyperrealistic style."` | ![Batman](results/Batman.jpeg) |
+| **2. Fruits Composition**<br>`"A vibrant composition of bananas, oranges, and peaches on a lush green background, studio lighting, ultra-sharp, 8k resolution, photorealistic style."` | ![Fruits](results/Fruits.jpeg) |
+| **3. Mountain Landscape**<br>`"Snow-covered mountains at sunrise, warm light hitting the peaks, highly detailed, dramatic composition, ultra sharp, 8k cinematic landscape."` | ![Mountain](results/Mountain.jpeg) |
+| **4. Cat Portrait**<br>`"A cat with sunglasses, wearing comfy hat, looking at camera, highly detailed, ultra sharp, cinematic, 100mm lens, 8k resolution."` | ![Cat](results/Cat.jpeg) |
+
 
 ## 🙏 Acknowledgment
 This implementation is based on  
