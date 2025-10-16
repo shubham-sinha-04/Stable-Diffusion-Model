@@ -16,8 +16,6 @@ licensed under the **MIT License**.
 
 ## 🖼️ Results
 
-## 🖼️ Results
-
 Below are some of the generated outputs from my Stable Diffusion implementation.  
 Each image was produced using a custom creative text prompt.
 
